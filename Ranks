@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Ranks</title>
+<link href="opmaak.css" rel="stylesheet" />
+</head>
+<body background="http://www.psdgraphics.com/file/old-paper.jpg">
+
+<h1 align="center" id="e"><em>Ellenor</em></h1>
+<table class="myTableText" style="width:100%;text-align:left;background-color:##3366ff;">
+<tr>
+<td><a href="Index.html">Home</a></td>
+<td><a href="INF.html">Information</a></td>
+<td><a href="Ranks.html">Ranks</a></td>
+<td><a href="Minigames.html">Minigames</a></td>
+<td><a href="TW.html">The World</a></td>
+</tr>
+</table>
+<div id="container">
+<div id="menu"></div>
+<div id="inhoud">
+<h1 align="center" id="I">Ranks</h1>
+<table>
+<tr>
+<td><img src="Knight.png" alt="Knight" width="250" height="350"></td>
+<td><img src="Wizard.jpg" alt="Wizard" width="250" height="350"></td>
+<td><img src="Queen.jpg" alt="Queen" width="250" height="350"></td>
+<td><img src="King.png" alt="King" width="250" height="350"></td>
+</tr>
+<tr>
+<td align="center">Knight</td>
+<td align="center">Wizard</td>
+<td align="center">Queen</td>
+<td align="center">King</td>
+</tr>
+<tr>
+<td align="center">5,-</td>
+<td align="center">7,50</td>
+<td align="center">10,-</td>
+<td align="center">10,-</td>
+</tr>
+<tr>
+<td align="center">Are you going to defend the people from the darkness? <a href="Knight.html">&lsaquo;click here&rsaquo;</a></td>
+<td align="center">Will you find the secrets of magic and use it for good? <a href="Wizard.html">&lsaquo;click here&rsaquo;</a></td>
+<td align="center">Will you rule the kingdom and let your people live in peace? <a href="Queen.html">&lsaquo;click here&rsaquo;</a></td>
+<td align="center">Are you going to war to make your kingdom a safe place? <a href="King.html">&lsaquo;click here&rsaquo;</a></td>
+</tr>
+</table>
+</div>
+<div id="side">
+</div>
+</div>
+</body>
+</html>
