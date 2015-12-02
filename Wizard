@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Wizard</title>
-<link href="opmaak.css" rel="stylesheet" />
+<link href="opmaak2.css" rel="stylesheet" />
 </head>
 <body background="http://www.psdgraphics.com/file/old-paper.jpg">
 
@@ -20,8 +20,24 @@
 <div id="container">
 <div id="menu"></div>
 <div id="inhoud">
-
-
-
+<table>
+<tr>
+<td id="I" align="center"><h1>King<h1></td>
+</tr>
+<tr>
+<td><img src="Wizard.jpg" alt="King" width="350" height="550"></td>
+</tr>
+</table>
+<lo>
+  <li>50000 Money</li>
+  <li>/repair</li>
+  <li>/hat command</li>
+  <li>/nick command</li>
+  <li>/kit Wizard command</li>
+</lo>
+</div>
+<div id="side">
+</div>
+</div>
 </body>
 </html>
