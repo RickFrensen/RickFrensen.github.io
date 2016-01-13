@@ -33,21 +33,6 @@
 .myTableText td a:active { 
   color: #FF0000; 
   }
-table.roundedCorners { 
-  border: 10px solid RoyalBlue;
-  border-radius: 13px; 
-  }
-table.roundedCorners th { 
-  font: bold 18px/1.1em Arial, Helvetica, sans-serif;
-  text-shadow: 1px 1px 4px black; 
-  letter-spacing: 0.1em; 
-  background-color: #ffffff; 
-  color:#0066ff; 
-  }
-table.roundedCorners { 
-  width: 5%;
-  border-collapse: collapse;
-  background-color: #ffffff; 
 p { color: #000000; font-famaly: sans-serif; text align: middle }
 p.citaat { font-style: italic } 
 #e {color: cyan;}
