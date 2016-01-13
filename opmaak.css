@@ -33,6 +33,10 @@
 .myTableText td a:active { 
   color: #FF0000; 
   }
+table.roundedCorners { 
+  border: 10px solid RoyalBlue;
+  border-radius: 13px; 
+  }
 p { color: #000000; font-famaly: sans-serif; text align: middle }
 p.citaat { font-style: italic } 
 #e {color: cyan;}
