@@ -37,6 +37,13 @@ table.roundedCorners {
   border: 10px solid RoyalBlue;
   border-radius: 13px; 
   }
+table.roundedCorners th { 
+  font: bold 18px/1.1em Arial, Helvetica, sans-serif;
+  text-shadow: 1px 1px 4px black; 
+  letter-spacing: 0.1em; 
+  background-color: #ffffff; 
+  color:#0066ff; 
+  }
 table.roundedCorners { 
   border-collapse: collapse;
   background-color: #ffffff; 
