@@ -38,7 +38,7 @@ p.citaat { font-style: italic }
 #e {color: cyan;}
 #I {color: Purple;}
  body {margin-top:0px;}
- #container {margin-left:auto;margin-right:auto;width:1500px;}
+ #container {margin-left:auto;margin-right:auto;width:100%;}
  #menu {padding:5px;width:15%;float:left;}
  #inhoud {padding:5px;width:70%;float:left;}
  #side {padding:5px;width:15%;float:right;}
