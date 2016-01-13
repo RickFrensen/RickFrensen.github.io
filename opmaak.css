@@ -45,6 +45,7 @@ table.roundedCorners th {
   color:#0066ff; 
   }
 table.roundedCorners { 
+  width: 5%;
   border-collapse: collapse;
   background-color: #ffffff; 
 p { color: #000000; font-famaly: sans-serif; text align: middle }
