@@ -37,6 +37,9 @@ table.roundedCorners {
   border: 10px solid RoyalBlue;
   border-radius: 13px; 
   }
+table.roundedCorners { 
+  border-collapse: collapse;
+  background-color: #ffffff; 
 p { color: #000000; font-famaly: sans-serif; text align: middle }
 p.citaat { font-style: italic } 
 #e {color: cyan;}
